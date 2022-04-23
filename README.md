@@ -10,4 +10,4 @@ Follow the instructions on the tools
 
 ### Exemples
 
-![PREVIEW] (https://cdn.discordapp.com/attachments/943332406507757658/967341338620211210/unknown.png)
+![PREVIEW](https://cdn.discordapp.com/attachments/943332406507757658/967341338620211210/unknown.png)
