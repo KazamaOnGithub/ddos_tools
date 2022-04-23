@@ -4,9 +4,9 @@ This software allows you to make ddos attacks, FREE of charge but especially wit
 
 ## How to uses
 
-Download all files
-Run the executable
-Follow the instructions on the tools
+1. Download all files
+2. Run the executable
+3. Follow the instructions on the tools
 
 ### Exemples
 
